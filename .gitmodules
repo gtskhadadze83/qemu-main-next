@@ -43,6 +43,3 @@
 [submodule "tests/lcitool/libvirt-ci"]
 	path = tests/lcitool/libvirt-ci
 	url = https://qemu-internal.googlesource.com/tests/lcitool/libvirt-ci.git
-[submodule "subprojects/keycodemapdb"]
-    path = subprojects/keycodemapdb
-	url = https://github.com/qemu/keycodemapdb.git
